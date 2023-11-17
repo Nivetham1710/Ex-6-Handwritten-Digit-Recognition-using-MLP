@@ -63,8 +63,8 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Program:
 ```
-NAME : Abishek Xavier A
-REG-NO: 212222230004
+NAME : Nivetha M
+REG-NO: 212221240034
 ```
 ## DEPENDENCIES:
 ```py
@@ -158,22 +158,21 @@ new_img.shape
 ```
 ## Output :
 ### MODEL SUMMARY
-![image](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/bee78f55-ae28-488c-8f98-0be4d9298c8a)
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/13684dbd-39a4-41b6-8dd6-d79f065e3f7b)
 
 ### TRAINING LOGS
-![image](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/45e85908-0c2e-4ffc-894c-750b91c1562e)
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/1269bf99-e9df-4f90-a8ab-8a8d893e9f65)
 
 ### ACCURACY AND LOSS PERCENTILE
-![download](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/fe047740-9e40-4f29-8cb4-163c413fa05f)
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/5de6c2f3-22d7-4042-a45b-1d6caf5fefc9)
 
-![download](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/28450fe0-b471-473f-9af4-67a189b18607)
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/565234b9-1caa-407b-835a-61fdf9d20c94)
 
 ### PREDICTION
-![image](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/ab42259d-6fea-44e6-8e83-eb4d12a3e8db)
-![image](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/a5df537c-af95-4b47-88a0-cf3d37a01532)
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/63bba52d-8b0e-4006-ad43-3ca08d898f4f)
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/ea5e170c-4275-4877-85a4-9c76df6ffa81)
 
-![download](https://github.com/aldrinlijo04/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/118544279/cc65e549-690d-4ae5-acb0-215159da3c8a)
-
+![image](https://github.com/Nivetham1710/Ex-6-Handwritten-Digit-Recognition-using-MLP/assets/94155183/b17960ff-c118-483b-9fda-97195522df2d)
 
 
 ## Result:
